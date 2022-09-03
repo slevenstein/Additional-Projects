@@ -3,7 +3,7 @@ Here are all the projects I need to keep private for school reasons but are avai
 
 - Animator (Java)
 - Pyramid Solitarire (Java)
-- Reliable Transport Protocol - UDP (Python)
+- Reliable Transport Protocol (Python)
 - Web Crawler (Python)
 - Raft System (Python)
 - Concurrency (C)
